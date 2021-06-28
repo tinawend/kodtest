@@ -1,0 +1,16 @@
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.exe
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.deps.json
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.runtimeconfig.json
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.runtimeconfig.dev.json
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.dll
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\ref\kodtest.dll
+C:\Users\tinaw\Desktop\kodtest\bin\Debug\net5.0\kodtest.pdb
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.csprojAssemblyReference.cache
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.AssemblyInfoInputs.cache
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.AssemblyInfo.cs
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.csproj.CoreCompileInputs.cache
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.dll
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\ref\kodtest.dll
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.pdb
+C:\Users\tinaw\Desktop\kodtest\obj\Debug\net5.0\kodtest.genruntimeconfig.cache
